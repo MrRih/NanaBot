@@ -71,6 +71,9 @@ JANGAN SIA-SIAIN AKU YA:) !
 
 """
 
+# CODE DIBAWAH JANGAN DIUBAH NANTI BOT ERROR ATAU TIDAK BEKERJA !!!
+# UBAH SAJA YANG TEXT " + TAMBAHKAN + " MENJADI USERNAME BOT ANDA
+
 buttons = [
     [
         InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/tehmanisangett"),
