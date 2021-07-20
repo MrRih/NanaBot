@@ -1,4 +1,3 @@
-<p align="center"><img src="https://tenor.com/view/happy-anime-cute-girl-gif-14066818.gif" style="width:500%"></p>
 
 <p align="center">
   <img src="https://telegra.ph/file/2284e5d64575d9c83bd2b.jpg">
