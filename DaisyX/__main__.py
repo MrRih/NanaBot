@@ -63,17 +63,18 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-HALLO SOBAT ! GUA,
-GUA HADIR UNTUK MEMBANTU ELU NGAB!.
+HALLO SEMUANYA 👋🏻 !,
+NANA HADIR UNTUK MEMBANTU KAMU NIHH 🤗!.
 
-RAWAT GROUP ELU, BIAR ELU NYA KAGAK CAPEK!
+RAWAT GROUP KAMU, BIAR KAMU NYA ENGGAK CAPEK!!
+JANGAN SIA-SIAIN AKU YA:) !
 
 """
 
 buttons = [
     [
         InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/tehmanisangett"),
-        InlineKeyboardButton(text="💬GROUP💬", url="https://t.me/Samalete")],
+        InlineKeyboardButton(text="💬GROUP 1💬", url="https://t.me/Samalete")],
     [
         InlineKeyboardButton(text="❓ BANTUAN ❓", callback_data="help_back"),
         InlineKeyboardButton(text="📣GROUP 2📣", url="https://t.me/Musikzamm")
@@ -88,7 +89,7 @@ buttons = [
 
 HELP_STRINGS = f"""
 *Komen Utama :* [🤖](https://telegra.ph/file/99e8d3ae5b35846d2d9c3.jpg)
-HEY NGAB! GUA GUA PUNYA BANYAK MODULE NIH, COBA LIAT KEBAWAH ADA PANDUANNYA KAN? NAH COBAIN AJA YA.
+HEY SEMUANYA! NANA PUNYA BANYAK MODULE NIH, COBA LIAT KEBAWAH ADA PANDUANNYA KAN? NAH COBAIN AJA YA 😜.
 ✪ /start: Memulai menggunakan saya.
 ✪ /help: Klik ini akan memunculkan modul saya!
 ✪ /settings: 
@@ -394,7 +395,7 @@ def DaisyX_about_callback(update, context):
     elif query.data == "aboutmanu_howto":
         query.message.edit_text(
             text=f"* ｢ BASIC HELP 」*"
-            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [MUSIK KU](https://t.me/musikkugroup).\n"
+            f"\n\nYou Can get support {dispatcher.bot.first_name} by joining [Zam Musik Project](https://t.me/musikzamm).\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
