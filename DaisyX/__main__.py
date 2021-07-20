@@ -80,7 +80,7 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ TAMBAHKAN ➕", url="t.me/elsamanagerbot?startgroup=true"
+            text="➕ TAMBAHKAN ➕", url="t.me/nanamanagerbot?startgroup=true"
         )
     ],
 ]
