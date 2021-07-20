@@ -56,7 +56,7 @@ from DaisyX import (
 
 # needed to dynamically load modules
 # NOTE: Module order is not guaranteed, specify that in the config file!
-from DaisyX.modules import ALL_MODULES
+from DaisyX.modules import ALL_MODULES, OWNER, SUPPORT_GROUP, UPDATES_CHANNEL
 from DaisyX.modules.helper_funcs.alternate import typing_action
 from DaisyX.modules.helper_funcs.chat_status import is_user_admin
 from DaisyX.modules.helper_funcs.misc import paginate_modules
@@ -72,15 +72,15 @@ RAWAT GROUP ELU, BIAR ELU NYA KAGAK CAPEK!
 
 buttons = [
     [
-        InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/tehmanisangett"),
-        InlineKeyboardButton(text="💬GROUP💬", url="https:/t.me/samalete")],
+        InlineKeyboardButton(text="👮OWNER👮", url=f"https://t.me/{OWNER}"),
+        InlineKeyboardButton(text="💬GROUP💬", url="https:/t.me/{SUPPORT_GROUP}")],
     [
         InlineKeyboardButton(text="❓ BANTUAN ❓", callback_data="help_back"),
-        InlineKeyboardButton(text="📣CHANNEL📣", url="https://t.me/musikzamm")
+        InlineKeyboardButton(text="📣CHANNEL📣", url="https://t.me/{UPDATES_CHANNEL}")
     ],
     [
         InlineKeyboardButton(
-            text="➕ TAMBAHKAN ➕", url="t.me/nanamanagerbot?startgroup=true"
+            text="➕ TAMBAHKAN ➕", url="t.me/elsamanagerbot?startgroup=true"
         )
     ],
 ]
