@@ -4,7 +4,7 @@
   <img src="https://telegra.ph/file/2284e5d64575d9c83bd2b.jpg">
 </p>
 
-### ELSA BOT
+### NANA BOT
 adalah Repo bot telegram untuk membuat bot pengelola managemen biar admin kagak capek
 
 <p align="center">
