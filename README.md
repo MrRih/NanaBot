@@ -1,18 +1,18 @@
-<p align="center"><img src="https://2.bp.blogspot.com/-eBu3-f3vzW0/V3E8UnYXsfI/AAAAAAAADHI/lJrPAoLSE70aO0F3W9fruZ8O-qJY76MSwCLcB/s1600/gambar-gerak-gif-chip-and-dale-terbaru.gif" style="width:100%"></p>
+<p align="center"><img src="https://tenor.com/view/happy-anime-cute-girl-gif-14066818.gif" style="width:500%"></p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/f973d5a6d4d91f6ca5aa3.jpg">
+  <img src="https://telegra.ph/file/2284e5d64575d9c83bd2b.jpg">
 </p>
 
 ### ELSA BOT
 adalah Repo bot telegram untuk membuat bot pengelola managemen biar admin kagak capek
 
 <p align="center">
-  <a href="https://t.me/kenkanasw"><img src="https://img.shields.io/badge/OWNER-blue?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/tehmanisangett"><img src="https://img.shields.io/badge/OWNER-blue?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 <p align="center">
-  <a href="https://t.me/elsamanagerbot"><img src="https://img.shields.io/badge/ELSA BOT-yellow?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/nanamanagerbot"><img src="https://img.shields.io/badge/ELSA BOT-yellow?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 <details>
