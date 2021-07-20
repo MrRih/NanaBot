@@ -72,8 +72,8 @@ RAWAT GROUP ELU, BIAR ELU NYA KAGAK CAPEK!
 
 buttons = [
     [
-        InlineKeyboardButton(text="👮OWNER👮", url=f"https://t.me/tehmanisangett"),
-        InlineKeyboardButton(text="💬GROUP💬", url="https:/t.me/Samalete")],
+        InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/tehmanisangett"),
+        InlineKeyboardButton(text="💬GROUP💬", url="https://t.me/Samalete")],
     [
         InlineKeyboardButton(text="❓ BANTUAN ❓", callback_data="help_back"),
         InlineKeyboardButton(text="📣GROUP 2📣", url="https://t.me/Musikzamm")
