@@ -361,8 +361,8 @@ def DaisyX_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f"*😍 Hi kembali!  Nam saya {dispatcher.bot.first_name} 😍 \n\nSaya adalah bot yang di kelola @kenkanasw.* "
-            f"\n\n 🔥 Join [MUSIK KU GROUP](https://t.me/musikkugroup) Untuk tahu kabar terbaru dari {dispatcher.bot.first_name} 🔥"
+            text=f"*😍 Hi kembali!  Nama saya {dispatcher.bot.first_name} 😍 \n\nSaya adalah bot yang di kelola @tehmanisangett.* "
+            f"\n\n 🔥 Join [Zam Musik Project](https://t.me/musikzamm) Untuk tahu kabar terbaru dari {dispatcher.bot.first_name} 🔥"
             f"\n\n Saya memiliki sistem yang dapat mengatasi member yang suka spam, kamu tinggal aktifkan anti spam di pengaturan saya."
             f"\n\n👇 Kamu bisa klik di bawah untuk cara penggunaan 👇",
             parse_mode=ParseMode.MARKDOWN,
