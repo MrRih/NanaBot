@@ -12,7 +12,7 @@ adalah Repo bot telegram untuk membuat bot pengelola managemen biar admin kagak 
 </p>
 
 <p align="center">
-  <a href="https://t.me/nanamanagerbot"><img src="https://img.shields.io/badge/ELSA BOT-yellow?style=for-the-badge&logo=telegram"/></a>
+  <a href="https://t.me/nanamanagerbot"><img src="https://img.shields.io/badge/NANA BOT-yellow?style=for-the-badge&logo=telegram"/></a>
 </p>
 
 <details>
