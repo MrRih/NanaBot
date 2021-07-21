@@ -7,7 +7,7 @@
          "group",
          "manager"
       ],   
-   "repository": "https://github.com/kenkannih/ElsaBot",
+   "repository": "https://github.com/MrRih/NanaBot",
    "addons": [
       {
          "options": {
@@ -178,6 +178,6 @@
       "manager",
       "daisy"
    ],
-   "name": "ElsaBot",
-   "repository": "https://github.com/kenkannih/ElsaBot"
+   "name": "NanaBot",
+   "repository": "https://github.com/MrRih/NanaBot"
 }
