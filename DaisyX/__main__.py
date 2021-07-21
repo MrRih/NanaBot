@@ -76,16 +76,16 @@ JANGAN SIA-SIAIN AKU YA:) !
 
 buttons = [
     [
-        InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/tehmanisangett"),
-        InlineKeyboardButton(text="💬GROUP 1💬", url="https://t.me/Samalete")],
-    [
         InlineKeyboardButton(text="❓ BANTUAN ❓", callback_data="help_back"),
+        InlineKeyboardButton(
+            text="➕ TAMBAHKAN ➕", url="t.me/nanamanagerbot?startgroup=true"
+        )],
+    [
+        InlineKeyboardButton(text="💬GROUP 1💬", url="https://t.me/Samalete"),
         InlineKeyboardButton(text="📣GROUP 2📣", url="https://t.me/Musikzamm")
     ],
     [
-        InlineKeyboardButton(
-            text="➕ TAMBAHKAN ➕", url="t.me/nanamanagerbot?startgroup=true"
-        )
+        InlineKeyboardButton(text="👮OWNER👮", url="https://t.me/tehmanisangett")
     ],
 ]
 
