@@ -63,7 +63,7 @@ from DaisyX.modules.helper_funcs.misc import paginate_modules
 from DaisyX.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
-HALLO SEMUANYA 👋🏻 !,NANA HADIR UNTUK MEMBANTU KAMU NIHH 🤗!.
+HALLO SEMUANYA 👋🏻 !,NANA HADIR UNTUK MEMBANTU KAMU NIHH MWEHE🤗!.
 
 RAWAT GROUP KAMU, BIAR KAMU NYA ENGGAK CAPEK!!, JANGAN SIA-SIAIN AKU YA :)
 SALAM HANGAT DARI NANA😉
